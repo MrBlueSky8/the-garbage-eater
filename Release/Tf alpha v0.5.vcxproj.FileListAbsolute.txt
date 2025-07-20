@@ -1,0 +1,7 @@
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tf alpha v0.5.vcxproj.AssemblyReference.cache
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tfalphav05.MyForm.resources
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tfalphav05.MyForm1.resources
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tfalphav05.MyForm2.resources
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tfalphav05.MyForm3.resources
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tf alpha v0.5.vcxproj.GenerateResource.cache
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tf alpha v0.5.exe

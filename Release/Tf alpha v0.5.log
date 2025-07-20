@@ -1,0 +1,82 @@
+﻿  Arpon.cpp
+  Base.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Base.cpp(136,21): warning C4018: '<': no coinciden signed/unsigned
+  Basura.cpp
+  Bonus.cpp
+  Buceador.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Buceador.cpp(78,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Buceador.cpp(85,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Buceador.cpp(96,20): warning C4018: '<': no coinciden signed/unsigned
+  Controladora.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(49,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(58,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(119,53): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(124,53): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(134,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(141,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(150,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(159,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(166,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(188,43): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(195,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(211,43): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(227,47): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(238,43): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(254,47): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(265,43): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(274,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(282,55): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(289,55): warning C4244: '=': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(302,43): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(310,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(327,44): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(346,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(365,44): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(384,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(403,44): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(423,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(434,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(436,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(438,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Controladora.cpp(440,20): warning C4018: '<': no coinciden signed/unsigned
+  Flecha.cpp
+  Loading.cpp
+  MyForm.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm1.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm2.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm3.cpp
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(231,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm2.h(245,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,22): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(243,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\MyForm.h(262,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Pajaro.cpp
+  Piraña.cpp
+  Tiburon.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Arpon.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Tf alpha v0.5.vcxproj -> C:\Users\MRBLU\OneDrive\Documentos\materiales ciclo 2\programación 2\TF JIJIJI\Tf alpha v0.5\Release\Tf alpha v0.5.exe
